@@ -1,0 +1,52 @@
+body{
+    background-image: url('./recipes-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: -70px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+h1{
+    text-align: center;
+    color:white;
+    border: 5px dotted wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 65px;
+}
+p{
+    text-align: center;
+    font-size: 18px;
+    color:aliceblue;
+    background-color: black;
+    opacity:0.9;
+    border-radius: 50px;
+}
+.recipes{
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.recipe-item{
+    margin: 15px;
+    padding: 20px;
+    /* border:2px solid black;
+    
+    background-color: black;
+    border-radius: 50px; */
+}
+.chicken-pasta{
+}
+img{
+    height: 250px;
+    width: auto;
+    border: 2px solid black;
+    border-radius: 50px;
+} 
+.tea-biscuits{
+   
+    
+}
+.beef-stew{
+    
+}
